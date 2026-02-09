@@ -8,7 +8,4 @@ As of 2026 I've moved to [Codeberg.org/Scio](https://codeberg.org/Scio). Most of
 
 You may reach me on [@Scio@mastodon.social](https://mastodon.social/@Scio).
 
-<details>
-  <summary>Identity proofs & metadata</summary>
-  <pre>Canonical identity: 1f82a026-f566-4f07-a7dc-2c1a2423837c</pre>
-</details>
+Canonical identity: 1f82a026-f566-4f07-a7dc-2c1a2423837c
